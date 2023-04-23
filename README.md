@@ -55,4 +55,4 @@ Bhagvadgita 1.0.0 is licensed under the [MIT License](https://github.com/AmanYad
 
 ## Contact
 
-If you have any questions or suggestions about Bhagvadgita 1.0.0, please feel free to contact us at bhagvadgita.support@example.com.
+If you have any questions or suggestions about Bhagvadgita 1.0.0, please feel free to contact us at amanyadav16544@gmail.com.
